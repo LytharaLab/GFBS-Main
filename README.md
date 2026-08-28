@@ -1,7 +1,7 @@
 # GFBS-Main
-This mod is currently in development for its first Alpha release. Once the CCNR-QAEC server officially enters development, the mod will become fully open source.
+The first Alpha version of this mod is currently under development. The project will be fully open-sourced once the CCNR-QAEC server officially opens.
 
-该模组目前正处于首个 Alpha 版本的开发阶段。待 CCNR-QAEC 服务器正式启动开发后，本模组将全面开放源代码。
+该模组的首个 Alpha 版本目前正在开发中。待 CCNR-QAEC 服务器正式开放后，本项目将全面开源。
 
 ## Dependencies (本模组依赖)
 - [GFBS-Auralis](https://github.com/LytharaLab/GFBS-Auralis)
