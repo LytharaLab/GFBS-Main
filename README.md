@@ -7,3 +7,7 @@ The first Alpha version of this mod is currently under development. The project 
 - [GFBS-Auralis](https://github.com/LytharaLab/GFBS-Auralis)
 - [GFBS-glTF](https://github.com/LytharaLab/GFBS-glTF)
 - [GFBS-Morphe](https://github.com/LytharaLab/GFBS-Morphe)
+
+---
+### Team maintaining this project: [GFBS Mod Series Maintainers](https://github.com/orgs/LytharaLab/teams/gfbs-mod-series-maintainers)
+### 维护此项目的团队: [GFBS Mod Series Maintainers](https://github.com/orgs/LytharaLab/teams/gfbs-mod-series-maintainers)
