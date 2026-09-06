@@ -1,5 +1,5 @@
 # GFBS-Main - **GLOBAL. FAAS. BROADCAST. SYSTEM.**
-## 欢迎来到麦迪逊研究设施！！！
+## 欢迎来到麦迪逊研究中心！！！
 ![量子科学能源研究设施-宣传图](https://static.wikia.nocookie.net/quantum-science/images/f/fa/Thumbnail1.webp/revision/latest?cb=20250513132844)
 
 ### GFBS为了在《Minecraft》中 1+:1 还原 Roblox游戏《QS Energy Research Facility》而生！
