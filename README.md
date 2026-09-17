@@ -18,3 +18,15 @@ The first Alpha version of this mod is currently under development. The project 
 ### Team maintaining this project: [GFBS Mod Series Maintainers](https://github.com/orgs/LytharaLab/teams/gfbs-mod-series-maintainers)
 ### 维护此项目的团队: [GFBS Mod Series Maintainers](https://github.com/orgs/LytharaLab/teams/gfbs-mod-series-maintainers)
 ---
+---
+---
+
+## About the GFBS Series（关于 GFBS 系列）
+
+**GFBS** originally stood for **“GLOBAL FAAS BROADCAST SYSTEM.”**
+The name has been retained for historical reasons, even though the project has since grown far beyond its original scope as a broadcast system.
+
+---
+
+**GFBS** 最初是 **“GLOBAL FAAS BROADCAST SYSTEM”** 的缩写。
+出于历史原因，这个名称一直沿用至今，尽管该项目如今早已发展得远超最初“广播系统”的定位与范围。
