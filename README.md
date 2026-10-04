@@ -7,7 +7,7 @@
 ---
 The first Alpha version of this mod is currently under development. The project will be fully open-sourced once the CCNR-QAEC server officially opens.
 
-该模组的首个 Alpha 版本目前正在开发中。待 [CCNR-QAEC(QQ群)](点击链接加入群聊【CCNR:综合体】：https://qm.qq.com/q/ct24z3u2Qw) 服务器正式开放后，本项目将全面开源。
+该模组的首个 Alpha 版本目前正在开发中。待 [CCNR-QAEC(QQ群)](https://qm.qq.com/q/ct24z3u2Qw) 服务器正式开放后，本项目将全面开源。
 
 ## Dependencies (本模组依赖)
 - [GFBS-Auralis](https://github.com/LytharaLab/GFBS-Auralis)
